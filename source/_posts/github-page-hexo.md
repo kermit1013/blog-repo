@@ -1,7 +1,8 @@
 ---
 title: 搭建 Hexo 於 Github page
 date: 2022-01-12 16:50:01
-tags:
+categories:
+- 技術
 ---
 
 ## 前言
